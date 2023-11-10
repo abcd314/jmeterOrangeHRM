@@ -1,6 +1,6 @@
 # jmeterOrangeHRM
 
-Start Jmeter using cmd:
-sh jmeter.sh ----mac/linux
-jmeter.bat ----------windows
-Open this jmx file in jmeter(File->open)
+Start Jmeter using cmd:<br>
+sh jmeter.sh ----mac/linux<br>
+jmeter.bat ----------windows<br>
+Open this jmx file in jmeter(File->open)<br>
